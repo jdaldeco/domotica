@@ -1,10 +1,5 @@
 # DOMOTICA - BAV
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -71,11 +66,3 @@ Team members:
    ```sh
    git clone https://github.com/jdaldeco/domotica.git
    ```
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/jdaldeco/domotica/graphs/contributors
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/jes%C3%BAs-daniel-aldeco-valenzuela-825592198/
